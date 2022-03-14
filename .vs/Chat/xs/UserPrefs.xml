@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{F35D1039-4D56-4157-9BCB-138F5CD6E818}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="chat/Models/ConnectionInfo.cs">
+    <Files>
+      <File FileName="chat/App.xaml.cs" Line="21" Column="29" />
+      <File FileName="chat.iOS/Main.cs" Line="10" Column="29" />
+      <File FileName="chat/Models/ConnectionInfo.cs" Line="4" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Chat" expanded="True">
+            <Node name="chat" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="ConnectionInfo.cs" selected="True" />
+              </Node>
+              <Node name="Selectors" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="chat.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.chat.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5DC692B4-BC36-4542-9C49-CD15142C3F4E" />
+  <MonoDevelop.Ide.ItemProperties.Chat.Functions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.chat.Android AndroidDesignerPreferredTheme="MainTheme" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

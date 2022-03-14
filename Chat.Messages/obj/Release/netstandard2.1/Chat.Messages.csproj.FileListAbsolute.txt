@@ -1,0 +1,10 @@
+/Users/niklasekstein/Projects/Chat/Chat.Messages/bin/Release/netstandard2.1/Chat.Messages.deps.json
+/Users/niklasekstein/Projects/Chat/Chat.Messages/bin/Release/netstandard2.1/Chat.Messages.dll
+/Users/niklasekstein/Projects/Chat/Chat.Messages/bin/Release/netstandard2.1/Chat.Messages.pdb
+/Users/niklasekstein/Projects/Chat/Chat.Messages/obj/Release/netstandard2.1/Chat.Messages.csproj.AssemblyReference.cache
+/Users/niklasekstein/Projects/Chat/Chat.Messages/obj/Release/netstandard2.1/Chat.Messages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niklasekstein/Projects/Chat/Chat.Messages/obj/Release/netstandard2.1/Chat.Messages.AssemblyInfoInputs.cache
+/Users/niklasekstein/Projects/Chat/Chat.Messages/obj/Release/netstandard2.1/Chat.Messages.AssemblyInfo.cs
+/Users/niklasekstein/Projects/Chat/Chat.Messages/obj/Release/netstandard2.1/Chat.Messages.csproj.CoreCompileInputs.cache
+/Users/niklasekstein/Projects/Chat/Chat.Messages/obj/Release/netstandard2.1/Chat.Messages.dll
+/Users/niklasekstein/Projects/Chat/Chat.Messages/obj/Release/netstandard2.1/Chat.Messages.pdb
